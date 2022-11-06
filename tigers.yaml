@@ -1,14 +1,6 @@
 team: Tigers
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 manager: Brenda
-=======
-manager: Deborah
->>>>>>> to-merge
-=======
-manager: Deborah
->>>>>>> to-rebase
 
 coach: Ruth
 
@@ -18,3 +10,4 @@ members:
 - David
 - George
 - Tyler
+- Park
